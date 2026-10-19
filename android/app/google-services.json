@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371454483238",
+    "project_id": "career-defence-school",
+    "storage_bucket": "career-defence-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371454483238:android:9a550d3806f4ad30a47fe7",
+        "android_client_info": {
+          "package_name": "com.careergroup.careerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371454483238-u73qv76mvv47gn5kqp61jmh0d7bbnst0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgkTHAG2_SkL4RYxnRIxgKqf2sos5G7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371454483238-u73qv76mvv47gn5kqp61jmh0d7bbnst0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
